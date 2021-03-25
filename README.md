@@ -8,7 +8,7 @@ A Tower Defence game combined with AutoChess.
 Classic Tower Defence Game: Kingdom Rush.  
 ![](./Src/KingdomRush.jpg)
 
-New trending AutoChass game: DotA2 AutoChess.  
+New trending AutoChass game: Dota2 AutoChess.  
 
 ![](./Src/dotachess.jpg)
 
