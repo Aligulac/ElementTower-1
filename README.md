@@ -3,6 +3,10 @@ A Tower Defence game combined with AutoChess.
 
 ![](./Src/ETLOGO.png)
 
+Please enjoy the [Trailer](https://www.bilibili.com/video/BV1sB4y1P7Zf/)
+
+And the GameDemo
+
 ## Summary
 ### Our Inspriation
 Classic Tower Defence Game: Kingdom Rush.  
@@ -155,7 +159,7 @@ Annie Qin:
 Our narrative design idea mostly come from different animes, or typical tower defense game narrative. We have a background story for our game, but since our game focused on largely the game feel and strategy, so that our narrative doesn’t stand out that much. We have a narrative to make our scene and our game more make sense and more attractive or interesting for our audience. We have different element representations of our towers, so our narrative largely based on the word magic. The element tower land is a land with magic, but there is a cruel devil that occupied this land before but were defeated by the honorary warriors. Now, the devil came back with his armies and want to try to get the land back. Our player is the leader of the honorary warriors. Player need to play with magical element towers to defeat the devil to protect the land. Our game incorporate with this background narrative entirely. 
 
 ### Promotion Video/Trailer
-[Trailer](https://youtu.be/vStfFNGyGSY). Here is the music I used for the trailer: [Nothing To Fear](https://www.youtube.com/watch?v=apxRypPsJfs).
+[Trailer](https://www.bilibili.com/video/BV1sB4y1P7Zf/). Here is the music I used for the trailer: [Nothing To Fear](https://www.youtube.com/watch?v=apxRypPsJfs).
 [Press Kit](https://github.com/CharlesYWL/ElementTower). Github read.md;
 For my trailer, I want to show that we have 11 elements tower and total 3 levels for each. We want to display our cool and insane visual effects on our tower. After first scene, we raise to sky to show players that we have a large map to play around and a lot of flexibility. Last scene is for showing how the tower attacks, and again, want to impress player with our visual effects.
 As for our press kit, we want to show how we come up with the game and some general idea about what’s our game;
