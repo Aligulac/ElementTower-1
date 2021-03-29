@@ -3,9 +3,10 @@ A Tower Defence game combined with AutoChess.
 
 ![](./Src/ETLOGO.png)
 
+## Trailer & Demo
 Please enjoy the [Trailer](https://www.bilibili.com/video/BV1sB4y1P7Zf/)
 
-And the GameDemo
+And the [GameDemo](https://www.bilibili.com/video/BV1sB4y1P7Zf?p=2)
 
 ## Summary
 ### Our Inspriation
